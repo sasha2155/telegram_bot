@@ -2,7 +2,7 @@
 
 import telebot
 
-bot = telebot.TeleBot("6911656556:AAF5Oaej5H9YCjUdhDAr_iKVNM70DzUKbM4")
+bot = telebot.TeleBot("Вставить ТОКЕН")
 
 
 @bot.message_handler(commands=['start', 'help'])
